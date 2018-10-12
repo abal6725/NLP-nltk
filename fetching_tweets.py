@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 31 14:50:43 2018
 
-@author: Lakshay Wadhwa
+@author: Abeer Ali
 """
 import numpy as np
 import tweepy
