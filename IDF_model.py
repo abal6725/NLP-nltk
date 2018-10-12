@@ -2,7 +2,7 @@
 """
 Created on Wed Aug  1 20:15:16 2018
 
-@author: Lakshay Wadhwa
+@author: Abeer Ali
 """
 ##########importing the packages
 import numpy as np
