@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 30 21:37:29 2018
 
-@author: Lakshay Wadhwa
+@author: Abeer Ali
 """
 #Stemming
 import nltk
